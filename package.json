@@ -1,0 +1,22 @@
+{
+  "name": "test-docker-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qb-vajahath/test-docker-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qb-vajahath/test-docker-app/issues"
+  },
+  "homepage": "https://github.com/qb-vajahath/test-docker-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
